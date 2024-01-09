@@ -8,7 +8,7 @@ function Sidebar() {
         <div className="   flex items-center gap-4 flex-[1_0_0%] flex-col my-[16px] mx-[10px] w-auto ">
             <div className='Top  flex mx-2 items-center w-full gap-3 justify-start pb-2'>
                 <div className=" w-[44px] h-[44px] shrink-0 rounded-[4px]">
-                    <img className=" rounded-[4px] w-[39px] h-[39px] absolute" src="./src/assets/nishyan.png" alt="" />
+                    <img className=" rounded-[4px] w-[39px] h-[39px] absolute" src="https://s3-alpha-sig.figma.com/img/18ef/52d9/1494ed3109e53ab9db09579cd5d8839e?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=hbXTfDpbx17Dm1UyWrCahHzqo902mog-y7REyL1EVX~ssIEzwHiEcj6MiIHeiOkbDRFcMpt3V-MvddqZyRBHDd-J3LkmTahxCv-UGtnU09Z3J2BfloJvJ7n8-My8RcF0WYqZ6UDqdBSium9I8xL4YyFvx4xreX-agyTnc8DLipLOn6ZANnuZqbZvpSsvyo6nPQr02YzgWu2BYAX~IzuUpJyPWDgjMwbgfHvQm7gpqsVVRXVoDqHJITXGmx4iYGsyfrawR5P-RLJ4ZNnwLYic-E7LCK2GbM-tOGgZf5OIKoUZwQMm35-HaH8YZ-MFzxSXKu~EwjGP9buXyfGZwoPdMg__ " alt="" />
                 </div>
                 <div className=' flex flex-col justify-center items-start gap-[4px] flex-[1_0_0%]'>
                     <h1 className=' text-[17px] font-semibold text-white mr-2'>Nishyan</h1>
